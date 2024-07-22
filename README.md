@@ -11,3 +11,4 @@ Just a simple project to update my git knowledge
 - git reset 
 - git fetch 
 - git pull 
+- git checkout
