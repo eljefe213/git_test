@@ -12,3 +12,4 @@ Just a simple project to update my git knowledge
 - git fetch 
 - git pull 
 - git checkout
+- git merge 
