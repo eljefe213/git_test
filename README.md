@@ -13,3 +13,5 @@ Just a simple project to update my git knowledge
 - git pull 
 - git checkout
 - git merge 
+- git stash 
+- git stash pop 
